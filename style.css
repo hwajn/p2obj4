@@ -1,0 +1,205 @@
+
+.fishy {position:relative;}
+    .child {position:relative;}
+    
+
+        .row1{position:relative;
+        top:120px;
+        left:120px;}
+
+        .row1obj1 {position:absolute;
+            left:60px;}
+        .row1obj2 {position:absolute;
+            left:90px;}
+        .row1obj3 {position:absolute;
+            left:150px;}
+
+
+
+        .row2{position:relative;
+        top:150px;
+        left:120px;}
+
+        .row2obj1 {position:absolute;
+            left:60px;}
+        .row2obj2 {position:absolute;
+            left:90px;}
+        .row2obj3 {position:absolute;
+            left:120px;}
+        .row2obj4 {position:absolute;
+            left:150px;}
+        .row2obj5 {position:absolute;
+            left:180px;}
+    
+
+
+        .row3{position:relative;
+        top:180px;
+        left:120px;}
+
+        .row3obj1 {position:absolute;
+            left:60px;}
+        .row3obj2 {position:absolute;
+            left:90px;}
+        .row3obj3 {position:absolute;
+            left:120px;}
+        .row3obj4 {position:absolute;
+            left:150px;}
+        .row3obj5 {position:absolute;
+            left:180px;}
+
+        .row4{position:relative;
+        top:210px;
+        left:120px;}
+        .row4obj1 {position:absolute;
+            left:120px;}
+        .row4obj2 {position:absolute;
+            left:150px;}
+        .row4obj3 {position:absolute;
+            left:180px;}
+        .row4obj4 {position:absolute;
+            left:210px;}
+    
+        .row5{position:relative;
+        top:240px;
+        left:120px;}
+        .row5obj1 {position:absolute;
+            left:120px;}
+        .row5obj2 {position:absolute;
+            left:150px;}
+        .row5obj3 {position:absolute;
+            left:180px;}
+        .row5obj4 {position:absolute;
+            left:210px;}
+
+        .row6{position:relative;
+        top:270px;
+        left:120px;}
+        .row6obj1 {position:absolute;
+            left:120px;}
+        .row6obj2 {position:absolute;
+            left:150px;}
+        .row6obj3 {position:absolute;
+            left:180px;}
+        .row6obj4 {position:absolute;
+            left:210px;}
+
+        .row7{position:relative;
+        top:300px;
+        left:90px;}
+        .row7obj1 {position:absolute;
+            left:120px;}
+        .row7obj2 {position:absolute;
+            left:150px;}
+        .row7obj3 {position:absolute;
+            left:180px;}
+        .row7obj4 {position:absolute;
+            left:210px;}
+        .row7obj5 {position:absolute;
+            left:240px;}
+    
+
+        .row8{position:relative;
+        top:330px;
+        left:90px;}
+        .row8obj1 {position:absolute;
+            left:120px;}
+        .row8obj2 {position:absolute;
+            left:150px;}
+        .row8obj3 {position:absolute;
+            left:180px;}
+        .row8obj4 {position:absolute;
+            left:210px;}
+        .row8obj5 {position:absolute;
+            left:240px;}
+
+        .row9{position:relative;
+        top:360px;
+        left:90px;}
+        .row9obj1 {position:absolute;
+            left:120px;}
+        .row9obj2 {position:absolute;
+            left:150px;}
+        .row9obj3 {position:absolute;
+            left:180px;}
+        .row9obj4 {position:absolute;
+            left:210px;}
+        .row9obj5 {position:absolute;
+            left:240px;}
+
+
+        .row10{position:relative;
+        top:390px;
+        left:90px;}
+        .row10obj1 {position:absolute;
+            left:120px;}
+        .row10obj2 {position:absolute;
+            left:150px;}
+        .row10obj3 {position:absolute;
+            left:180px;}
+        .row10obj4 {position:absolute;
+            left:210px;}
+
+        .row11{position:relative;
+        top:420px;
+        left:60px;}
+        .row11obj1 {position:absolute;
+            left:120px;}
+        .row11obj2 {position:absolute;
+            left:150px;}
+        .row11obj3 {position:absolute;
+            left:180px;}
+        .row11obj4 {position:absolute;
+            left:210px;}
+        .row11obj5 {position:absolute;
+            left:240px;}
+
+
+        .row12{position:relative;
+        top:450px;
+        left:60px;}
+        .row12obj1 {position:absolute;
+            left:120px;}
+        .row12obj2 {position:absolute;
+            left:150px;}
+        .row12obj3 {position:absolute;
+            left:180px;}
+        .row12obj4 {position:absolute;
+            left:210px;}
+
+        .row13{position:relative;
+        top:480px;
+        left:60px;}
+        .row13obj1 {position:absolute;
+            left:120px;}
+        .row13obj2 {position:absolute;
+            left:150px;}
+        .row13obj3 {position:absolute;
+            left:180px;}
+    
+
+        .row14{position:relative;
+        top:510px;
+        left:60px;}
+        .row14obj1 {position:absolute;
+            left:120px;}
+        .row14obj2 {position:absolute;
+            left:150px;}
+
+        .row15{position:relative;
+        top:540px;
+        left:60px;}
+        .row15obj1 {position:absolute;
+            left:120px;}
+        .row15obj2 {position:absolute;
+            left:150px;}
+
+        .stick{position:relative;
+        top:570px;
+        left:60px;}
+        .row16obj1 {position:absolute;
+            left:120px;}
+        .row16obj2 {position:absolute;
+            left:120px;
+            top:30px;}
+            
